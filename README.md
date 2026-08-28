@@ -15,4 +15,4 @@
 
 ## Connect With Me 💕
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ava-prator/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF69B4?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ava-prator/)
